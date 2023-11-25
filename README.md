@@ -9,7 +9,7 @@ The "HR Management Analysis of Northwind Traders Enterprise Ltd." repository con
 Evaluate the performance of employees by job role analysis of Northwind traders enterprise in terms of key performance indicators (KPIs). Identify trends, patterns and anomalies in the company's performance data over time. Generate actionable insights to inform data-driven decision-making. Enhance data transparency and accessibiity for stakeholders.
 
 **DATA EXTRACTION:**  <br>
-Aggregated sales data was extracted from the company's SQL server.
+Aggregated diverse employee datasets, including personal details, job roles, performance metrics, and salary information from multiple sources including the company's SQL server.
 
 **DATA CLEANSING:**  <br> 
 The column distribution, column profile and column quality was elucidated from the view ribbon of the power query editor. This was done to ascertain and check for the possibility of errors, null values, empty spaces, data uniqueness and distinctiveness, outliers, and inconsistencies.
@@ -18,13 +18,13 @@ The column distribution, column profile and column quality was elucidated from t
 Transformation was done on the already cleansed data. The data had a lot of issues and required thorough cleansing, formatting, styling and re-organisation. This was done with a very high level of professionalism in order to maintain the integrity and originality of the data. The Transformed Data was then saved and made ready for the data modelling
 
 **DATA MODELING:**  <br> 
-Designed a robust data model, incorporating various tables, relationships, and calculated columns for analysis. Power BI's data modeling capabilities were used to create relationships between different datasets. Data hierachy and date table creation using DAX was done,enabling a holistic view of the organization's performance.
+Constructed a robust data model to establish relationships between employee data, salary records, and job roles for in-depth analysis. Designed a robust data model, incorporating various tables, relationships, and calculated columns for analysis. Power BI's data modeling capabilities were used to create relationships between different datasets. Data hierachy and date table creation using DAX was done,enabling a holistic view of the organization's performance.
 
 **VISUALIZATION AND ANALYSIS:**  <br> 
-Created interactive visualizations, including bar charts, line graphs, heatmaps, and geographical maps, to represent key performance, trends, and regional comparisons. These visuals allowed for easy interpretation of performance trends. The core focus of the project was on analyzing performance data over time. This involved creating time-based visualizations to track changes, seasonality, and growth in various KPIs. Key performance indicators (KPIs) were analyzed over time to access the company's overall performance in the regions where sales took place.
+Created insightful visualizations such as histograms, box plots, salary distributions, and job role breakdowns to depict key HR metrics. These visuals allowed for easy interpretation of performance trends. The core focus of the project was on analyzing performance data over time. This involved creating time-based visualizations to track changes, seasonality, and growth in various KPIs. Key performance indicators (KPIs) were analyzed over time to access the company's overall performance in the regions where sales took place.
 
 **DASHBOARD CREATION:**  <br> 
-Constructed a user-friendly dashboard presenting KPIs, employee data trends, and performance metrics.
+Developed an interactive dashboard allowing stakeholders to filter data by job roles, departments, and salary ranges for personalized analysis. Constructed a user-friendly dashboard presenting KPIs, employee data trends, and performance metrics.
 Filtering and Slicing: Implemented dynamic filtering and slicing options for users to drill down into specific data points. This dashboard was developed to present the insights in an intuitive and interactive manner thereby enabling users to gain a deep understanding of the company's performance.
 
 **PROJECT OUTCOMES**  <br>
